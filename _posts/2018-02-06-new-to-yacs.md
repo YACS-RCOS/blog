@@ -1,6 +1,6 @@
 ---
-#My first blog post
-title: "My first blog post"
+#YACS New Member
+title: "YACS New Member"
 date: 2018-02-06 04:35
 author: "Daniel Ackermans"
 ---
