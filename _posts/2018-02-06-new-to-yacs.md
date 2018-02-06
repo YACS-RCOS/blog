@@ -11,13 +11,13 @@ I will be working on helping to expand the capabilities of YACS updates outside 
 
 My current experience includes:
 
-Coding-
+Coding:
 
 	*HTML/PHP
 	*Python
 	*C/C++
 
-General-
+General:
 
 	*RPI administrative knowledge
 	*Basic front-end development
