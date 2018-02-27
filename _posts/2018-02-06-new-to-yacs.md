@@ -2,7 +2,7 @@
 #YACS New Member
 title: "YACS New Member"
 date: 2018-02-06 04:35
-author: "Daniel Ackermans"
+author: Daniel Ackermans
 ---
 
 I am new to RCOS and the YACS team.
