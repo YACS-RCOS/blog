@@ -1,6 +1,6 @@
 ---
 #YAML Front Matter.
-title: "new-yacs-web"
+title: "New to YACS-Web"
 date: 2018-02-27 7:45:00 -0400
 author: "James Milne"
 ---
