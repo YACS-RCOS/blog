@@ -15,10 +15,14 @@ I have since taken on 3 issues:
 
 My major goals for my first task were:
 
--Update the needed front-end files to display the class location
--Add a location column to the database
--Whitelist the location data in the needed back-end files
--Run the database migration
+- Update the needed front-end files to display the class location
+
+- Add a location column to the database
+
+- Whitelist the location data in the needed back-end files
+
+- Run the database migration
+
 
 As of now, the YACS schedule displays the location of each section on the schedule. The next step, once the refactor of the front-end has been completed, will be to work on displaying class section locations in the course list window. 
 
