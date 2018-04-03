@@ -5,7 +5,7 @@ date: 2018-04-03 16:45
 author: Daniel
 ---
 
-As the last week of the semster rolls around, I have completed a milestone. 
+As the last month of the semster rolls around, I have completed a milestone. 
 
 There is now a feature in the YACS database to tag a course. Specifically for this issue, a course can be tagged as "featured" to indicate the course as a Special Topics Course. 
 
