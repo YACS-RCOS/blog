@@ -1,0 +1,17 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+---\
+title: \'93YACS Admin - Milestone Update\'94\
+date: 2018-04-12 2:02:33 \
+type: post\
+author: Cole\
+---\
+\
+Quick update on our milestones. I just finished the section detail component along with testing. Now, we pretty much have the basic frontend structure done. I think we are close to finishing our Completion of the Main Interface milestone. All that\'92s left is to implement periods. We are going to combine this with sections, though, so we won\'92t need a separate form, we can just add on to the existing section component. Also, period already exists in the backend, we just need to add it to the frontend. }
