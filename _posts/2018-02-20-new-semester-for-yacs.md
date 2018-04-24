@@ -1,7 +1,9 @@
 ---
-title: "New Semester for YACS"
-date: 2018-02-20 10:23:44 -0400
-author: "Yuze Ma"
+layout: post
+title: New Semester for YACS
+date: 2018-02-20 10:23:44 
+type: post
+author: Yuze Ma
 ---
 
 At the begining of this semester, I had a long conversation with Richi about dividing the yacs development team into multiple sub teams, they are:
