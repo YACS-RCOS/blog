@@ -41,6 +41,10 @@ Alex Z:
 Cole:
   blogname: Cole Gregory
   github: colegregory
+
+Daniel:
+  blogname: Daniel Ackermans
+  github: marchdan
   
 # catch-all for a missing author: default will be this
 The YACS Dev Team:
