@@ -2,6 +2,7 @@
 #YACS-BI research semester progress update
 title: "YACS-BI research semester progress update"
 date: 2018-04-27 00:07
+type: post
 author: Huiming Cheng
 ---
 
