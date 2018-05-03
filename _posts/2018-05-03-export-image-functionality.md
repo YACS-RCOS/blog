@@ -16,3 +16,5 @@ However, when I want to select a DOM element, I was told not to use javascript `
 At the time I finished this task, I found I really learned a lot.
 
 Hope I can learn more and make more contribution next semester.
+
+Haochang Caspar Qian
