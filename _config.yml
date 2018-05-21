@@ -11,3 +11,5 @@ defaults:
       type: "post"
       layout: "post"
       author: "The YACS Dev Team"
+
+theme: jekyll-theme-cayman
