@@ -3,7 +3,7 @@ layout: post
 title: XML API Consumption
 date: 2016-01-20 10:40:00.000000000 -05:00
 type: post
-author: Richie
+author: Ada
 ---
 
 I'd like to take a step back and talk a bit about our APIs, or rather, how the front end of app consumes our APIs.

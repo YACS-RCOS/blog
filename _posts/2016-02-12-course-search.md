@@ -3,7 +3,7 @@ layout: post
 title: Course Search
 date: 2016-02-12 20:24:30.000000000 -05:00
 type: post
-author: Richie
+author: Ada
 ---
 
 In order to reach our alpha release, the course search feature had to be implemented: until recently the search bar was not actually functional. We had discussed how the search should work, and decided that something resembling a "full-fledged" search function was necessary. However we did not want to add the dependency of an external platform like Apache Solr. The temporary solution we originally came up with was a pseudo-search that would check search terms against multiple columns of each course record and its associated records one at a time. The procedure would return a list of all matched courses ordered by the number of terms that matched each course. This would be very slow to do in Ruby, but I intended to port the algorithm to a PostgreSQL procedure after doing some benchmarking.

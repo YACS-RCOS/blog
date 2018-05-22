@@ -3,7 +3,7 @@ layout: post
 title: Data Interface, Cron jobs and Rake Tasks
 date: 2016-03-20 20:44:12.000000000 -04:00
 type: post
-author: Richie
+author: Ada
 ---
 
 I'd like to dedicate a post to the state of the various maintenance tasks we've created thus far. We have created a small suite of tasks for keeping our database up to date. Before I dive into that, I must first outline an interface we have created.

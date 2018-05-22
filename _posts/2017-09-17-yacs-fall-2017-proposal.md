@@ -3,7 +3,7 @@ layout: post
 title: Fall 2017 Proposal
 date: 2017-09-17 20:00:00
 type: post
-author: Richie
+author: Ada
 ---
 
 Hello Everyone,
@@ -15,7 +15,7 @@ We are back! In preparation for the Fall semester, we've outlined our high-level
 # Team
 ----------
 
-Richie Young - architecture
+Ada Young - architecture
 Cameron Root - frontend, core
 Kathleen Burkhardt - full stack, admin
 Ayushi Mishra - design, core & planner

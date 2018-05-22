@@ -6,7 +6,7 @@ type: post
 author: Yuze Ma
 ---
 
-At the begining of this semester, I had a long conversation with Richi about dividing the yacs development team into multiple sub teams, they are:
+At the begining of this semester, I had a long conversation with Ada about dividing the yacs development team into multiple sub teams, they are:
 
 - Admin Pannel team
 

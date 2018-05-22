@@ -3,7 +3,7 @@ layout: post
 title: To Production, And Beyond! (Part 0)
 date: 2016-07-01 19:06:51.000000000 -04:00
 type: post
-author: Richie
+author: Ada
 ---
 ## Introduction
 

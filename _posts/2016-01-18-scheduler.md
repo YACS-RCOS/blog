@@ -3,7 +3,7 @@ layout: post
 title: Scheduler
 date: 2016-01-18 02:15:09.000000000 -05:00
 type: post
-author: Richie
+author: Ada
 ---
 #### At long last, we have a functioning scheduler.
 

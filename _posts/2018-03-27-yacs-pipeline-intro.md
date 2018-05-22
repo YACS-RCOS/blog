@@ -2,7 +2,7 @@
 #YACS at NYU
 title: "The New YACS Data Pipeline"
 date: 2018-03-28 13:00:00 -0400
-author: "Richie"
+author: "Ada"
 ---
 
 Hello folks,
@@ -34,4 +34,4 @@ So check back soon for more updates on how that's going, and for the tutorial
 on how to bring YACS to your school!
 
 Best,
-Richie
+Ada
