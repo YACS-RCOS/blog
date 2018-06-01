@@ -15,7 +15,7 @@ layout:
         {% for post in site.posts %}
         <tr>
           <td>
-            <a href="{{ post.id }}"> {{ post.title }}</a>
+            <a href="{{ site.baseurl }}/{{ post.id }}"> {{ post.title }}</a>
           </td>
           <td>
             {{ post.date | date: "%B %-d, %Y" }}

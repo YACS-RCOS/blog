@@ -3,7 +3,7 @@ layout: post
 title: YACS is back!
 date: 2015-10-03 06:40:23.000000000 -04:00
 type: post
-author: Richie
+author: Ada
 ---
 
 After a long hiatus, development on YACS is back on track with a new team and new goals! For the uninitiated, YACS is Yet Another Course Scheduler that provides a simple and sane web-based approach for the RPI student community to schedule their classes. It was initially started off by Jeff Hui - an RPI alum and former RCOS member. Over the years, it has served the community well and on behalf of the entire RPI student community we would like to extend our thanks to Jeff for taking the initiative of making YACS. Unfortunately after Jeff's graduation, the project has fallen into a bit of disarray as there was no one to support and maintain it. After all, there is only so much one person can do.

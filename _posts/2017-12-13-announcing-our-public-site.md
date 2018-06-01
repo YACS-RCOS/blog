@@ -3,7 +3,7 @@ layout: post
 title: Announcing our Public Site
 date: 2017-12-13 20:00:00
 type: post
-author: Richie
+author: Ada
 ---
 
 Hello Everyone!! I'd like to announce our up-and-coming public site! The aim of this site is to provide information, promotion, and documentation for the YACS project. We hope to eventually use this to automatically onboard new schools!

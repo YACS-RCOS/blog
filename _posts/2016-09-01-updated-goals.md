@@ -3,7 +3,7 @@ layout: post
 title: Updated Goals
 date: 2016-09-01 20:24:39.000000000 -04:00
 type: post
-author: Richie
+author: Ada
 ---
 
 Hello All,

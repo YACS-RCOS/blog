@@ -3,7 +3,7 @@ layout: post
 title: Growing Pains & Opportunity
 date: 2017-09-17 20:00:00
 type: post
-author: Richie
+author: Ada
 ---
 
 Hello Everyone!

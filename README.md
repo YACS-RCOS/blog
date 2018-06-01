@@ -1,6 +1,6 @@
 # YACS Blog
 
-This is the repository powering the new YACS Blog, which you can find on [yacs-rcos.github.io](https://yacs-rcos.github.io).
+This is the repository powering the new YACS Blog, which you can find on [blog.yacs.io](https://blog.yacs.io).
 
 ### How to Post
 

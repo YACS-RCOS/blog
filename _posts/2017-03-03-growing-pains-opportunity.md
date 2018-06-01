@@ -3,7 +3,7 @@ layout: post
 title: Growing Pains & Opportunity
 date: 2017-03-03 00:51:56.000000000 -05:00
 type: post
-author: Richie
+author: Ada
 ---
 
 I recall a few months ago the sysadmin in charge of provisioning the VM on which YACS runs asking me if we had any persistent data we would want backed up. "No," I replied "all of the data can be easily regenerated." This was true enough at the time, as all of the course data is automatically updated each day. But a few weeks later I had manually added a large number of courses and added custom descriptions to even more. All of these changes were tediously performed through the Rails console one by one, as the data came from individual emails from professors and a large unstructured PDF of new and special topics courses that the registrar in turn tediously compiles each semester.

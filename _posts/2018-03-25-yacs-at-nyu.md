@@ -2,7 +2,7 @@
 #YACS at NYU
 title: "Announcing our collaboration with NYU!"
 date: 2018-03-25 12:00:00 -0400
-author: "Richie"
+author: "Ada"
 ---
 
 Hello folks,
@@ -28,4 +28,4 @@ That's all for now, but check back very soon for more details!
 
 Best,
 
-Richie
+Ada
